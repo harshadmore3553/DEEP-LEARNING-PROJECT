@@ -20,3 +20,6 @@ The neural network model I built was a simple feed-forward text classifier with 
 Training was done in multiple epochs, and for each epoch, the model's accuracy and loss were tracked. The model's performance improved gradually over epochs as it learned patterns from the training data. The results were visualized using a line graph showing how accuracy increased and loss decreased over time.
 To make the project reusable and easy to test, I saved the trained model and generated a plot of the accuracy and loss values across epochs. The trained model was stored in a separate folder, and the graph was saved as an image in the outputs folder.
 This project helped me strengthen my understanding of how natural language processing and deep learning can be combined to perform real-world tasks like text classification. It also taught me how to use key tools and libraries like PyTorch, TorchText, and Matplotlib, and how to structure a machine learning project from end to end.
+
+#Output:
+![Image](https://github.com/user-attachments/assets/0593e97e-2fd8-4ff7-a639-765c3fb87112)
